@@ -1,0 +1,17 @@
+10-fold Linear Kernel
+Cross Validation Accuracy = 59.68%
+
+10-fold Polynomial Kernel
+Cross Validation Accuracy = 50.024%
+
+Linear Kernel - Training accuracy
+Accuracy = 60.12% (7515/12500) (classification)
+
+Polynomial Kernel - Training accuracy
+Accuracy = 50.024% (6253/12500) (classification)
+
+Linear Kernel - Test accuracy
+Accuracy = 59.2% (7400/12500) (classification)
+
+Polynomial Kernel - Test accuracy
+Accuracy = 50.048% (6256/12500) (classification)

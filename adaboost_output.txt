@@ -1,0 +1,31 @@
+Training AdaBoost K = 10 ...
+Iteration 1
+Accuracy = 55.696% (6962/12500) (classification)
+Iteration 2
+Accuracy = 50% (6250/12500) (classification)
+Iteration 3
+Accuracy = 50% (6250/12500) (classification)
+Iteration 4
+Accuracy = 50% (6250/12500) (classification)
+Testing...
+Accuracy = 55.072% (6884/12500) (classification)
+Accuracy = 50% (6250/12500) (classification)
+Accuracy = 50% (6250/12500) (classification)
+Accuracy = 50% (6250/12500) (classification)
+K =  10 Accuracy:  55.071999999999996
+
+Training AdaBoost K = 20 ...
+Iteration 1
+Accuracy = 55.696% (6962/12500) (classification)
+Iteration 2
+Accuracy = 50% (6250/12500) (classification)
+Iteration 3
+Accuracy = 50% (6250/12500) (classification)
+Iteration 4
+Accuracy = 50% (6250/12500) (classification)
+Testing...
+Accuracy = 55.072% (6884/12500) (classification)
+Accuracy = 50% (6250/12500) (classification)
+Accuracy = 50% (6250/12500) (classification)
+Accuracy = 50% (6250/12500) (classification)
+K =  20 Accuracy:  55.071999999999996
