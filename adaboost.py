@@ -129,6 +129,6 @@ def run(K):
 
 
 if __name__ == "__main__":
-    run(10);
-    run(20);
+    run(10)
+    run(20)
 
